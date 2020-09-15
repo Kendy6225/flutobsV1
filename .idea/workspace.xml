@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a340891b-e557-4c22-b973-9dafb1e715cb" name="Default Changelist" comment="commit" />
+    <list id="90151e69-ab50-4153-aef4-af9700164e73" name="Revert &quot;添加android sdk&quot;" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Nexus_4_API_28" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GiteePullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://gitee.com/kendy6225/flutobs.git" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hPcIQiIvUn3vmnen3UDp0oTFUW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dart.analysis.tool.window.force.activate" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/ios/Classes" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ios/Classes" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a340891b-e557-4c22-b973-9dafb1e715cb" name="Default Changelist" comment="" />
+      <changelist id="90151e69-ab50-4153-aef4-af9700164e73" name="Revert &quot;添加android sdk&quot;" comment="" />
+      <created>1599916087077</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599916087077</updated>
+      <workItem from="1599916089053" duration="4634000" />
+      <workItem from="1599933856620" duration="6898000" />
+      <workItem from="1600059447655" duration="1147000" />
+      <workItem from="1600141612146" duration="614000" />
+      <workItem from="1600146052084" duration="662000" />
+      <workItem from="1600146778693" duration="26000" />
+    </task>
+    <task id="LOCAL-00001" summary="Revert &quot;添加android sdk&quot;&#10;&#10;This reverts commit 4a2b1281668721a3166997c5863321adc323ffa8.">
+      <created>1600141828792</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1600141828792</updated>
+    </task>
+    <task id="LOCAL-00002" summary="commit">
+      <created>1600146432599</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1600146432599</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+      <path value="$PROJECT_DIR$/example/ios/.symlinks/plugins/flutobs" />
+    </ignored-roots>
+    <MESSAGE value="Revert &quot;添加android sdk&quot;&#10;&#10;This reverts commit 4a2b1281668721a3166997c5863321adc323ffa8." />
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="603" y="320" width="234" height="430" key="#Notifications" timestamp="1600146326568">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="603" y="320" width="234" height="430" key="#Notifications/0.0.1440.900@0.0.1440.900" timestamp="1600146326568" />
+    <state x="208" y="31" key="#Project_Structure" timestamp="1600059915318">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="208" y="31" key="#Project_Structure/0.0.1440.900@0.0.1440.900" timestamp="1600059915318" />
+    <state x="573" y="356" key="Gitee.ShareDialog" timestamp="1600146395910">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="573" y="356" key="Gitee.ShareDialog/0.0.1440.900@0.0.1440.900" timestamp="1600146395910" />
+    <state x="221" y="89" key="SettingsEditor" timestamp="1600146804916">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="221" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1600146804916" />
+    <state x="571" y="371" key="VCS.ChangelistChooser" timestamp="1600141853654">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="571" y="371" key="VCS.ChangelistChooser/0.0.1440.900@0.0.1440.900" timestamp="1600141853654" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1600146486733">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1600146486733" />
+    <state x="322" y="245" key="git4idea.merge.GitPullDialog" timestamp="1600146221597">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="322" y="245" key="git4idea.merge.GitPullDialog/0.0.1440.900@0.0.1440.900" timestamp="1600146221597" />
+    <state x="414" y="316" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1600146239316">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="414" y="316" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1440.900@0.0.1440.900" timestamp="1600146239316" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1599920725588">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900/144.-1440.2560.1440@0.0.1440.900" timestamp="1599920725588" />
+  </component>
+</project>

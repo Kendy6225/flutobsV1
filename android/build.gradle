@@ -1,0 +1,46 @@
+group 'com.betax.flutobs'
+version '1.0'
+
+buildscript {
+    repositories {
+        google()
+        jcenter()
+    }
+
+    dependencies {
+        classpath 'com.android.tools.build:gradle:3.5.0'
+    }
+}
+
+rootProject.allprojects {
+    repositories {
+        maven {
+            url 'http://mirrors.huaweicloud.com/repository/maven/huaweicloudsdk/'
+        }
+        maven {
+            url 'http://mirrors.huaweicloud.com/repository/maven/'
+        }
+        mavenCentral()
+        google()
+        jcenter()
+    }
+}
+
+apply plugin: 'com.android.library'
+
+android {
+    compileSdkVersion 28
+
+    defaultConfig {
+        minSdkVersion 16
+    }
+    lintOptions {
+        disable 'InvalidPackage'
+    }
+}
+
+dependencies {
+
+    //华为OBS
+    api 'com.huawei.storage:esdk-obs-android:3.1.3'
+}
